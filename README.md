@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm Roman - Python backend developer exploring LLM and AI technologies.</h6>
+<p align="left">I'm Roman - Python backend developer exploring LLM and AI technologies.</p>
 
 ###
 
@@ -15,11 +15,11 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/fnfkmcVpV2K.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk0NDQ1ZHB3ZnptamU1cDdvNjFhNnJlNzlpd21lcDBkc2k3cXpjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
-<h6 align="left">Tech Stack</h6>
+<p align="left">Tech Stack</p>
 
 ###
 
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -47,8 +49,19 @@
 
 ###
 
-<br clear="both">
+<p align="left">Connect</p>
 
-<img src="https://raw.githubusercontent.com/Soulrom/Soulrom/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/roman-mokrii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <a href="https://t.me/romuchm" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+</div>
 
 ###
